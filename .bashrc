@@ -1,0 +1,6 @@
+alias gs='git status'
+alias gpo='git push origin'
+alias gfo='git fetch origin'
+alias gpom='git pull origin master'
+alias gcm='git commit -m'
+alias gA='git add -A'
