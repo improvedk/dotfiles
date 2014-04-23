@@ -1,5 +1,5 @@
 alias gpo="git push origin"
-alias gs="git status"
+alias gs="git status -sb"
 alias gA="git add -A"
 alias gcm="git commit -m"
 alias gfo="git fetch origin"
